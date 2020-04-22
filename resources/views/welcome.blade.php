@@ -85,10 +85,10 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://nopixel.online/lf/social">Social Media</a>
-                    <a href="https://nopixel.online/lf/email">E-Mail</a>
-                    <a href="https://nopixel.online/lf/invaderflix">InvaderFlix</a>
-                    <a href="https://nopixel.online/lf/dabcoin">Dabcoin</a>
+                    <a href="https://lf.nopixel.online/social">Social Media</a>
+                    <a href="https://lf.nopixel.online/email">E-Mail</a>
+                    <a href="https://lf.nopixel.online/invaderflix">InvaderFlix</a>
+                    <a href="https://lf.nopixel.online/dabcoin">Dabcoin</a>
                 </div>
             </div>
         </div>
